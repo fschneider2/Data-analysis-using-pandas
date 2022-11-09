@@ -2,7 +2,7 @@
 
 - https://www.growdev.com.br/starter-data-science
 
--- Para estas atividades, foram utilizadas as bibliotecas PANDAS, NUMPY e MATPLOTLIB da linguagem Python.
+-- Para estas atividades, foram utilizadas as bibliotecas PANDAS, NUMPY e MATPLOTLIB da linguagem Python, notebooks, VSCode, e um tanto de Stack Overflow.
 
 No exercicio 1, utilizei dados do Kaggle, com informações sobre as vendas de video games, com a intenção de trazer analises informativas.
 
