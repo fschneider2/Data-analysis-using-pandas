@@ -1,19 +1,22 @@
-Data-analysis-using-pandas
+## Exercicios e trabalho final de modulo do curso de Data Science da escola Growdev
 
-EX1: 
+- https://www.growdev.com.br/starter-data-science
 
-To download csv https://www.kaggle.com/code/rafa84miranda/vendas-de-jogos-de-videogames/data?select=vgsales.csv
+-- Para estas atividades, foram utilizadas as bibliotecas PANDAS, NUMPY e MATPLOTLIB da linguagem Python.
 
-EX2:
+No exercicio 1, utilizei dados do Kaggle, com informações sobre as vendas de video games, com a intenção de trazer analises informativas.
 
-To download csv : https://www.kaggle.com/datasets/upadorprofzs/testes
+- To download csv https://www.kaggle.com/code/rafa84miranda/vendas-de-jogos-de-videogames/data?select=vgsales.csv
 
-Final_Module:
+No exercicio 2, utilizei dados do kaggle, com informações de escolaridade do IBGE
 
-To download csv: https://www.kaggle.com/code/adaoduque/tabela-do-brasileirao-temporada-2020-2021/data?select=campeonato-brasileiro-full.csv
+- To download csv : https://www.kaggle.com/datasets/upadorprofzs/testes
 
-To download image: https://drive.google.com/file/d/1Jrue6mVXNnx9nuk-VH2SQmF9CZUKqWV4/view
+Para o exercicio de Final_Module, foram abordadas duas atividades, a primeira, a aplicação manual de um filtro gaus, utilizando python em analise, manipulação e melhoria de imagens. A atividade proposta esta disponivel em: <https://drive.google.com/file/d/1Jrue6mVXNnx9nuk-VH2SQmF9CZUKqWV4/view>
 
-Data analysis from kaggle database, for study during Data Science Growdev course.
+A segunda atividade é uma analise informativa, trazedo resultados e informações sobre o campeonato brasileiro 
+
+- To download csv: https://www.kaggle.com/code/adaoduque/tabela-do-brasileirao-temporada-2020-2021/data?select=campeonato-brasileiro-full.csv
+
 
 
